@@ -39,8 +39,7 @@ format:
 - <a href="lecture/高等代数习题讲义.pdf" target="_blank" >高等代数习题讲义：PDF</a>
 - <a href="lecture/实分析习题讲义.pdf" target="_blank" >实分析习题讲义：PDF</a>
 - <a href="lecture/拓扑学笔记.pdf" target="_blank" >拓扑学讲义：PDF</a>
-- <a href="https://github.com/Winter-Fisher-Wind/Winter-Riesz.github.io/releases/download/past-exams-2026/Past%20Exams.rar" target="_blank" rel="noopener noreferrer">历年数学考试试卷（Past Exams）：下载 RAR 压缩包</a>
-
+- <a href="https://github.com/Winter-Fisher-Wind/Winter-Riesz.github.io/releases/download/Past-Exams/Past.Exams.rar" target="_blank">历年数学考试试卷（Past Exams）：下载 RAR 压缩包</a>
 - <a href="lecture/2026.4.7 Recitation.pdf" target="_blank" >2026.4.7 Recitation：PDF</a>
 
 
